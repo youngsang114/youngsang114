@@ -25,8 +25,7 @@
   <a href="mailto:dgh06008@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=kimhyein7110@gmail.com"/></a>
 </p>
 
-<h3 align="center">📚 Now I'm Studying 📚</h3>
+<h3 align="center">📚 certificate 📚</h3>
 <p align="center">
-  1.SQLD :  9/9<br>
-  2.빅분기 : 9/23
+  - SQLD 
 </p>
