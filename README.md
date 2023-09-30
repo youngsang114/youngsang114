@@ -27,5 +27,5 @@
 
 <h3 align="center">📚 certificate 📚</h3>
 <p align="center">
-  - SQLD 
+ SQLD 
 </p>
