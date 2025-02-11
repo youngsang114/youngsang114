@@ -10,7 +10,7 @@
 <h3 align="left">👋 It's me! 👋</h3>
 <br>
 <p align="left">
-  🌱 Hi, I'm Young Sang Yoo, and I'm interested in back-end development and data analysis. 🌱
+  🌱 Hi, I'm Young Sang Yoo, and I'm interested in Finance and Data Analysis 🌱
 </p>
 
 <br>
@@ -49,8 +49,9 @@
 
 <p align="left"> 📋 Languages </p>
 <p align="left">
-  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Julia-9A2C6C?style=flat-square&logo=Julia&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/></a>&nbsp
 </p>
